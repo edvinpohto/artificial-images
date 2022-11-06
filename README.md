@@ -7,4 +7,4 @@ OpenAI charges for each image generated, but offers a $18 credit to get yourself
 
 This project is essentially a programmatical replica of Dall-E and was created out of curiosity towards the API.
 
-To initialise the project, clone the repository and install the required packages with <code>node install</code>.
+To initialise the project, clone the repository and install the required packages with <code>npm install</code>.
